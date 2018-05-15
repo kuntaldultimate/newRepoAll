@@ -1,2 +1,2 @@
 # newRepoAll
-Helloworld
+Helloworld A New way
